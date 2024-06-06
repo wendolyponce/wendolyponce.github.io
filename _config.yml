@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wendoly's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Wendoly Ponce"
 description              : &description "Power Platform Developer | Consultor SAP BW/4HANA"
@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "perfil.png"
   name             : "Wendoly Ponce"
-  pronouns         : # example: "she/her"  
+  pronouns         : "wendolyponce@gmail.com" # example: "she/her"  
   bio              : "Power Platform Developer | Consultor SAP BW/4HANA"
   location         : "Pontevedra, España"
-  employer         : 
+  employer         : "wendolyponce@gmail.com"
   uri              : # URL
   email            : "wendolyponce@gmail.com" 
 
