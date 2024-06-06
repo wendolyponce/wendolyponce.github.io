@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Wendoly Ponce"
 title_separator          : "-"
-name                     : &name "Wendoly Ponce"
-description              : &description "Power Platform Developer | Consultor SAP BW/4HANA"
+name                     : &name ""
+description              : &description ""
 url                      : https://wendolyponce.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "perfil.png"
   name             : "Wendoly Ponce"
   pronouns         : # example: "she/her"  
-  bio              : "Power Platform Developer | Consultor SAP BW/4HANA"
+  bio              : "Power Platform Developer | SAP BW/4HANA"
   location         : "Pontevedra, España"
   employer         : 
   uri              : # URL
