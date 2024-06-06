@@ -1,6 +1,6 @@
 ---
 title: "Proyecto Refugio de animales"
-excerpt: "Utilizando Microsoft Power Platform optimizaremos las operaciones de esta organización <img src='/images/icons/dataverse.png'><img src='/images/icons/powerapps.png'><img src='/images/icons/powerautomate.png'><img src='/images/icons/powerbi.png'><br/><img src='/images/proyecto1.jpg'>"
+excerpt: "Utilizando Microsoft Power Platform optimizaremos las operaciones de esta organización  <br/><img src='/images/proyecto1.jpg' class='proyecto-img'> <br/> <img src='/images/icons/dataverse.png' class='icons-img' ><img src='/images/icons/powerapps.png' class='icons-img' ><img src='/images/icons/powerautomate.png' class='icons-img' ><img src='/images/icons/powerbi.png' class='icons-img' >"
 collection: portfolio
 ---
 
