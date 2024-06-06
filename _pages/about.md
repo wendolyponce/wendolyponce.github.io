@@ -7,12 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hola 👋, Soy Wendoly.
-======
+
 Hola 👋, Soy Wendoly.
 Desarrolladora de Power Platform certificada ✨. 
 
 Explora [mis trabajos](https://wendolyponce.github.io/portfolio/) en Power BI, Power Apps y Power Automate, y descubre cómo puedes aprovechar mis habilidades para llevar tus proyectos al siguiente nivel.
-
-
-![Herramientas de Power Platform](/images/power-platform-3.png){: align-right with ="300px"}
