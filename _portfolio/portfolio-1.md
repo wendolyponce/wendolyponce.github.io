@@ -1,6 +1,6 @@
 ---
-title: "Proyecto 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/proyecto1.jpg'>"
+title: "Proyecto Refugio de animales"
+excerpt: "Utilizando Microsoft Power Platform optimizaremos las operaciones de esta organización <img src='/images/icons/dataverse.png'><img src='/images/icons/powerapps.png'><img src='/images/icons/powerautomate.png'><img src='/images/icons/powerbi.png'><br/><img src='/images/proyecto1.jpg'>"
 collection: portfolio
 ---
 
