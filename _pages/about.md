@@ -15,17 +15,11 @@ Desarrolladora de Power Platform certificada ✨.
 Explora [mis trabajos](https://wendolyponce.github.io/portfolio/) en Power BI, Power Apps y Power Automate, y descubre cómo puedes aprovechar mis habilidades para llevar tus proyectos al siguiente nivel.
 
 
-Power BI
+Proyectos
 ------
-1. Proyecto 1 
-1. Proyecto 1 
-
-Power Apps
-------
-1. Proyecto 1 
-1. Proyecto 1 
-
-Power Automate
-------
-1. Proyecto 1 
-1. Proyecto 1 
+1. Proyecto 1
+1. Proyecto 2
+1. Proyecto 3
+1. Proyecto 4
+1. Proyecto 5
+1. Proyecto 6
