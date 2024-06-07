@@ -17,7 +17,7 @@ Explora [mis trabajos](https://wendolyponce.github.io/portfolio/) en Power BI, P
 
 Proyectos
 ------
-1. Proyecto 1
+1. Proyecto Refugio de animales
 1. Proyecto 2
 1. Proyecto 3
 1. Proyecto 4
