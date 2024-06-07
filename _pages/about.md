@@ -10,9 +10,9 @@ redirect_from:
 
 Hola 👋, Soy Wendoly.
 
-Desarrolladora de **Power Platform** certificada ✨.
+**Desarrolladora de Power Platform certificada** ✨.
 
-🔎**Explora** mis proyectos y **descubre cómo puedes aprovechar mis habilidades** para llevar tus proyectos al siguiente nivel💪.
+🔎**Explora mis proyectos** y **descubre cómo puedes aprovechar mis habilidades** para llevar tus proyectos al siguiente nivel💪.
 
 Power BI
 ------
