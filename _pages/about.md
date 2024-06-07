@@ -9,7 +9,6 @@ redirect_from:
 
 
 Hola 👋, Soy Wendoly.
-
 Desarrolladora de **Power Platform** certificada ✨. 
 ------
 
