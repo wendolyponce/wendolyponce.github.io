@@ -19,12 +19,10 @@ Power BI
 ------
 1. Cuadro de mandos [Abrir](https://wendolyponce.github.io/portfolio/power-bi-1/) 
 1. Proyecto 2 [Abrir](https://wendolyponce.github.io/portfolio/power-bi-1/) 
-
 Power Automate
 ------
 1. Proyecto 3 [Abrir](https://wendolyponce.github.io/portfolio/power-automate-1/) 
 1. Proyecto 4 [Abrir](https://wendolyponce.github.io/portfolio/power-automate-1/) 
-
 Power Apps
 ------
 1. Proyecto 5 [Abrir](https://wendolyponce.github.io/portfolio/power-apps-1/) 
